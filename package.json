@@ -1,0 +1,20 @@
+{
+  "name": "discard-pile-server",
+  "version": "1.0.0",
+  "description": "discard pile backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "ts-node-dev": "^1.0.0-pre.49",
+    "typescript": "^3.9.5"
+  }
+}
